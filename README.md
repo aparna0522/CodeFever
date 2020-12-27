@@ -5,7 +5,7 @@ CodeFever, is a C++ based project, dealing with the measurement(amount) of the a
 Created a website as a part of the project using Wix Platform. \
    <b>Website URL:</b> www.codefever.wixsite.com/codefever
 
-<h3>How to run this project</h3>
+<h3>How to run this project?</h3>
 
 1. Clone this repository. 
 2. Open your Turbo C++ compiler. 
