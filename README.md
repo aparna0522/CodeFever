@@ -11,3 +11,5 @@ Created a website as a part of the project using Wix Platform. \
 2. Open your Turbo C++ compiler. 
 3. Import the code. 
 4. Run the code.  
+
+<b>Some Glimpses of the output are shown: </b>https://github.com/aparna0522/CodeFever/issues/1#issue-775051492
